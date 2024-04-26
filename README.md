@@ -12,3 +12,6 @@ page](https://docs.github.com/en/get-started/writing-on-github/working-with-adva
 might help with the notation for mathematical expressions.
 
 $T(n) \in O(f(n)) \iff \exists c, n_0: T(n) \leq c \cdot f(n) \forall n \geq n_0$
+
+ANSWER:
+The goal is to shpw that $O(\log_{2} n)$ is the same as $O(\log_{2} n)$, and to do that we can start with substituting in either $\log_{2}$ or $\log_{5}$ into $T(n) \in O(f(n))$
